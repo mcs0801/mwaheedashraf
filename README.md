@@ -1,7 +1,7 @@
 # 👋 Waheed Ashraf – Full Stack Web Developer Portfolio
 
 **🌍 Location:** Multan, Pakistan  
-**💼 Experience:** 10+ Years | Freelance & Remote Projects (USA, Europe, Asia)  
+**💼 Experience:** Freelance & Remote Projects (USA, Europe, Asia)  
 **💻 Tech Stack:** PHP (Custom, Laravel, CodeIgniter), MySQL, JavaScript, RESTful APIs, Stripe/PayPal Integrations  
 
 ---
